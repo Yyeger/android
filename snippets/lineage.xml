@@ -172,7 +172,7 @@
   <project path="hardware/qcom-caf/sm8750/audio/graphservices" name="LineageOS/android_vendor_qcom_opensource_audioreach-graphservices" groups="qcom" revision="lineage-23.0-caf-sm8750" />
   <project path="hardware/qcom-caf/sm8750/audio/pal" name="LineageOS/android_vendor_qcom_opensource_arpal-lx" groups="qcom,pakala-audio" revision="lineage-23.0-caf-sm8750" />
   <project path="hardware/qcom-caf/sm8750/audio/primary-hal" name="LineageOS/android_hardware_qcom_audio-ar" groups="qcom,pakala-audio" revision="lineage-23.0-caf-sm8750" />
-  <project path="hardware/qcom-caf/sm8850/audio/primary-hal" name="OnePlus-15-Development/android_hardware_qcom_audio-ar" groups="qcom,kaanapali-audio" revision="lineage-23.0-caf-sm8850" />
+  <project path="hardware/qcom-caf/sm8845/audio/primary-hal" name="OnePlus-15-Development/android_hardware_qcom_audio-ar" groups="qcom,kaanapali-audio" revision="lineage-23.0-caf-sm8850" />
   <project path="hardware/qcom-caf/sm8750/data-ipa-cfg-mgr" name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,pakala-vendor" revision="lineage-23.0-caf-sm8750" />
   <project path="hardware/qcom-caf/sm8750/dataipa" name="LineageOS/android_vendor_qcom_opensource_dataipa" groups="qcom,pakala-vendor" revision="lineage-23.0-caf-sm8750" />
   <project path="hardware/qcom-caf/sm8750/display/core" name="LineageOS/android_vendor_qcom_opensource_display-core" groups="qcom" revision="lineage-23.0-caf-sm8750" />
