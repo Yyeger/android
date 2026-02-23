@@ -1011,5 +1011,5 @@
   </project>
 
   <include name="snippets/lineage.xml" />
-  <include name="snippets/infiniti.xml" />
+  <include name="snippets/macan.xml" />
 </manifest>
